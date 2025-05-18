@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\appntxctxfs\\profiles\\300079729\\Desktop\\Assignment4---Pay-Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD6307-4B91-447E-9CA8-98A0E961A1E6}|BMG.Assignment4\\BMG.Assignment4.vcxproj|\\\\appntxctxfs\\profiles\\300079729\\Desktop\\Assignment4---Pay-Report\\BMG.Assignment4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "\\\\appntxctxfs\\profiles\\300079729\\Desktop\\Assignment4---Pay-Report\\BMG.Assignment4\\main.cpp",
+              "RelativeDocumentMoniker": "BMG.Assignment4\\main.cpp",
+              "ToolTip": "\\\\appntxctxfs\\profiles\\300079729\\Desktop\\Assignment4---Pay-Report\\BMG.Assignment4\\main.cpp",
+              "RelativeToolTip": "BMG.Assignment4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T19:28:23.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
